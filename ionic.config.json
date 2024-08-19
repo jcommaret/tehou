@@ -1,0 +1,7 @@
+{
+  "name": "tehou",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
